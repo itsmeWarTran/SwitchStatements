@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/bin/Debug/net5.0/SwitchStatements.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/bin/Debug/net5.0/SwitchStatements.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/bin/Debug/net5.0/SwitchStatements.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/bin/Debug/net5.0/SwitchStatements.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/bin/Debug/net5.0/ref/SwitchStatements.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/bin/Debug/net5.0/SwitchStatements.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/ref/SwitchStatements.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/SwitchStatements/obj/Debug/net5.0/SwitchStatements.genruntimeconfig.cache
